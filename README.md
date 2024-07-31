@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyans51885161" target="blank"><img src="https://img.shields.io/twitter/follow/priyans51885161?logo=twitter&style=for-the-badge" alt="priyans51885161" /></a> </p> 
 
-- 🌱 I’m currently learning **PHP,React,MongoDB**
+- 🌱 I’m currently learning **MERN_FullStack**
 
 - 💬 Ask me about **HTML5,CSS3,JavaScript**
 
